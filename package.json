@@ -17,6 +17,7 @@
     "url": "https://github.com/Warettel/mammoth-fix.js.git"
   },
   "dependencies": {
+    "@xmldom/xmldom": "^0.8.6",
     "argparse": "~1.0.3",
     "bluebird": "~3.4.0",
     "dingbat-to-unicode": "^1.0.1",
